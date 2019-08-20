@@ -9,7 +9,7 @@ Code and data for EMNLP-IJCNLP 2019 paper "Are You for Real? Detecting Identity 
 
 ## Training model
 cd src
-./rl.sh (or ./warm_up.sh)
+- ./rl.sh (or ./warm_up.sh)
 
 ## Test model
 ./test.sh
