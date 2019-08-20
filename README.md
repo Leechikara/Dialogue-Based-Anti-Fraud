@@ -10,7 +10,7 @@ numpy
 ```
 
 ## Train models
-If you want just to pre-train the dialogue models, use
+If you just want to pre-train the dialogue models, use
 ```
 cd src
 ./warm_up.sh
