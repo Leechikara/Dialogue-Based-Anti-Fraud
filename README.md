@@ -30,4 +30,6 @@ cd src
 
 ## Notes
 - Please read the annotation in the scripts. 
-- When testing, please load the correct trained models. When training HP-S (--model_setting hrl), please use bonus mechanism to stable training (just a trick). Otherwise, the rl training will collapse. Contact me if you have any questions.
+- When testing, please load the correct trained models. 
+- When training HP-S (--model_setting hrl), please use bonus mechanism to stable training (just a trick). Otherwise, the rl training will collapse.
+- Contact me if you have any questions.
