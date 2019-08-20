@@ -7,9 +7,9 @@ Code and data for EMNLP-IJCNLP 2019 paper "Are You for Real? Detecting Identity 
      matplotlib
      numpy
 
-## Training model
-cd src
-- ./rl.sh (or ./warm_up.sh)
+### Training model
+     cd src
+     ./rl.sh (or ./warm_up.sh)
 
-## Test model
-./test.sh
+### Test model
+     ./test.sh
